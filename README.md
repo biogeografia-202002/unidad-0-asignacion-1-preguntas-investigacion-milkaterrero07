@@ -1,26 +1,16 @@
 # Mi/s pregunta/s de investigación es/son la/s siguiente/s:
 
-* ¿Qué importancia presenta la diversidad de las epífitas vasculares con relación al tipo de bosque?
+* ¿Existe asociación estadística entre la composición de comunidades de la familia Solanaceae y el tipo de bosque?
 
-* ¿Cuáles son los índices a utilizar para obtener los datos de densidad y riqueza de las epífitas vasculares?
+* ¿Se correlaciona la diversidad alpha de la familia Solanaceae con el tipo de bosque?
 
-* ¿Existe asociación estadística entre la composición de las comunidades de las epífitas vasculares y el tipo de bosque?
+* ¿Explica la elevación y la diversidad beta de de la familia Solanaceae?
 
-* ¿Qué factores ambientales influyen en el desarrollo de las epífitas vasculares y el tipo de cobertura?
+* ¿Está repartida homogéneamente la diversidad alpha de la familia solanaceae en el territorio dominicano? ¿Hay variabilidad por municipios, provincias o regiones? ¿Existen clusters de riqueza?
 
-* ¿Explica la elevación y la diversidad beta de las epífitas vasculares?
+* ¿Hay indicios de que los registros de ocurrencia de la familia Solanaceae de los que dispongo están sesgados? ¿Sesgados en qué aspecto? ¿Espacial? ¿Por subgrupo?
 
-* ¿Se correlaciona la diversidad de alpha de las epífitas vasculares con el tipo de bosque?
-
-* ¿Está repartida homogéneamente la diversidad alpha de las epífitas vasculares en el territorio dominicano? ¿Hay variabilidad por municipios, provincias o regiones? ¿Existen clusters de riqueza?
-
-* ¿Hay indicios de que los registros de ocurrencia de las epífitas vasculares de los que dispongo están sesgados? ¿Sesgados en qué aspecto? ¿Espacial? ¿Por subgrupo?
-
-* ¿Cuáles son los índices de abundancia de los Forófitos que influyen en las epífitas vasculares con relación al tipo de bosque?
-
-* ¿Qué características presentan las epífitas vasculares en el tipo de bosque?
-
-* ¿Explica la intervención antrópica sobre las epífitas vasculares?
+* ¿Afecta la intervención antrópica sobre la familia Solanaceae?
 
 
 
