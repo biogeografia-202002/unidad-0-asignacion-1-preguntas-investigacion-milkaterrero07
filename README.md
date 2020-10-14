@@ -1,16 +1,22 @@
 # Mi/s pregunta/s de investigación es/son la/s siguiente/s:
 
-* ¿Existe asociación estadística entre la composición de comunidades de la familia Solanaceae y el tipo de bosque?
+Mi familia elegida es Rubiaceae.
 
-* ¿Se correlaciona la diversidad alpha de la familia Solanaceae con el tipo de bosque?
+* Diversidad:
 
-* ¿Explica la elevación y la diversidad beta de de la familia Solanaceae?
+    * Según los análisis de estimación de riqueza, ¿está suficientemente representada mi familia? Consideremos como buena representación un 85%
+    * ¿Existe asociación de la diversidad alpha con variables ambientales/atributos? ¿Con cuáles?
+    * ¿Existe contribución local o por alguna especie a la diversidad beta?
+    
+* Ecología espacial:
 
-* ¿Está repartida homogéneamente la diversidad alpha de la familia solanaceae en el territorio dominicano? ¿Hay variabilidad por municipios, provincias o regiones? ¿Existen clusters de riqueza?
+    * ¿Alguna(s) especies de mi familia presenta(n) patrón aglomerado? ¿Cuál(es)? ¿Se asocia con alguna variable?
+    * ¿Predicen bien la ocurrencia de dicha(s) especie(s) los modelos de distribución de especies (SDM)?
+    
+* Ordenación (ordination analysis):
 
-* ¿Hay indicios de que los registros de ocurrencia de la familia Solanaceae de los que dispongo están sesgados? ¿Sesgados en qué aspecto? ¿Espacial? ¿Por subgrupo?
-
-* ¿Afecta la intervención antrópica sobre la familia Solanaceae?
+    * En un espacio bidimensional, ¿existen tendencias apreciables de ordenación de las especies de mi familia seleccionada?
+    * Si existen tendencias de ordenación, ¿se asocian éstas con variables ambientales/atributos?
 
 
 
